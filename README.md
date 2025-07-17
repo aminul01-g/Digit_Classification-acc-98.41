@@ -110,6 +110,9 @@ jupyter notebook Digit_Classification.ipynb
 
 ---
 
+## 🔗 Project Links
+- [Live Demo](https://digitclassifications.streamlit.app/)
+
 ## 💡 Learnings
 
 - ANNs excel at image classification tasks.
