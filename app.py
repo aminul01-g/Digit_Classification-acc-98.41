@@ -38,7 +38,7 @@ class MNISTClassifier(nn.Module):
 
 # ---- Load Trained Model ----
 @st.cache_resource
-def load_model(path="mnist_model.pt"):
+def load_model(path="model.pt"):
     model = MNISTClassifier()
     model.load_state_dict(torch.load(path, map_location=torch.device('cpu')))
     model.eval()
