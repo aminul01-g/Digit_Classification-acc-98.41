@@ -1,5 +1,5 @@
 
-# 🖋️ Digit Classification (Accuracy: 98.41%)
+# 🖋️ Digit Classification (Accuracy: 98.43%)
 
 > **Handwritten Digit Recognition using ANN on MNIST dataset.**  
 > Achieved **98.41% accuracy** with a simple yet effective Artificial Neural Network (ANN) model.
@@ -39,7 +39,7 @@ The goal is to recognize digits (0-9) from grayscale images and achieve high cla
 
 | Metric        | Value     |
 |---------------|-----------|
-| **Accuracy**  | **98.41%** |
+| **Accuracy**  | **98.43%** |
 | **Dataset**   | MNIST      |
 
 ---
