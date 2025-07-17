@@ -15,6 +15,9 @@ The goal is to recognize digits (0-9) from grayscale images and achieve high cla
 
 ---
 
+## 🔗 Project Links
+- [Live Demo](https://digitclassifications.streamlit.app/)
+
 ## 🚀 Key Features
 
 ✅ Clean and minimal ANN architecture  
@@ -109,9 +112,6 @@ jupyter notebook Digit_Classification.ipynb
 ```
 
 ---
-
-## 🔗 Project Links
-- [Live Demo](https://digitclassifications.streamlit.app/)
 
 ## 💡 Learnings
 
