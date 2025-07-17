@@ -1,8 +1,8 @@
 
 # 🖋️ Digit Classification (Accuracy: 98.41%)
 
-> **Handwritten Digit Recognition using CNN on MNIST dataset.**  
-> Achieved **98.41% accuracy** with a simple yet effective Convolutional Neural Network (CNN) model.
+> **Handwritten Digit Recognition using ANN on MNIST dataset.**  
+> Achieved **98.41% accuracy** with a simple yet effective Artificial Neural Network (ANN) model.
 
 ![Digit Classification Banner](https://upload.wikimedia.org/wikipedia/commons/2/27/MnistExamples.png)
 
@@ -10,14 +10,14 @@
 
 ## 📌 Project Overview
 
-This project demonstrates how to build a **Convolutional Neural Network (CNN)** from scratch in **PyTorch** for classifying handwritten digits from the popular **MNIST dataset**.  
+This project demonstrates how to build a **Artificial Neural Network (ANN)** from scratch in **PyTorch** for classifying handwritten digits from the popular **MNIST dataset**.  
 The goal is to recognize digits (0-9) from grayscale images and achieve high classification accuracy.
 
 ---
 
 ## 🚀 Key Features
 
-✅ Clean and minimal CNN architecture  
+✅ Clean and minimal ANN architecture  
 ✅ Achieved **98.41% test accuracy**  
 ✅ Clear notebook with step-by-step explanations  
 ✅ Visualizations of predictions and training performance  
@@ -50,8 +50,8 @@ The goal is to recognize digits (0-9) from grayscale images and achieve high cla
    - Normalization  
    - Transformations  
 
-2. **CNN Model Architecture**  
-   - Convolutional layers  
+2. **ANN Model Architecture**  
+   - Layers  
    - ReLU activations  
    - Max Pooling  
    - Fully connected layers  
@@ -112,7 +112,7 @@ jupyter notebook Digit_Classification.ipynb
 
 ## 💡 Learnings
 
-- CNNs excel at image classification tasks.
+- ANNs excel at image classification tasks.
 - Importance of simple architectures for small datasets.
 - PyTorch’s ease of use for building neural networks.
 - Visualization helps interpret model performance effectively.
